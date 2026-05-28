@@ -17,12 +17,6 @@ An end to end Machine Learning Solution for reducing the down time of a turbine 
 * Git (Version Control)
 * uv (Environment & Dependency Management)
 
-## Overview
-
-This is your new Kedro project, which was generated using `kedro 1.3.1`.
-
-Take a look at the [Kedro documentation](https://docs.kedro.org) to get started.
-
 ## How to run your Kedro pipeline
 
 You can run your Kedro project with:
